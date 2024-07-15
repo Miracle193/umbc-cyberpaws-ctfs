@@ -17,7 +17,7 @@ To decode this, on my Kali Linux VM I ran the following command:
 echo "UGF3c3dkMG4ndF9QNG4xY30=" | base64 -d
 ```
 
-This output the key:
+This outputs the key:
 ```bash
 Paws{d0n't_P4n1c}
 ```
