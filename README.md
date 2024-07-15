@@ -6,7 +6,7 @@ This repository serves as a tracker for the CTFs where I breakdown the steps I t
 ## Fall 2023
 | CTF Name | Category | Status | 
 |---       |---       |---     |
-| Week 1: Code Words | Crypto | [Completed](Fall-2023/Week1/) |
+| Week 1: Code Words | Crypto | [Completed](Fall-2023/Week%201/) |
 | Week 2: Family Photo | Steganography | Not started |
 | Week 3: Ziplocked, You Rock! | Crypto |  Not started |
 | Week 4: Exfiltration Expedition | Incident Response |  Not started |
