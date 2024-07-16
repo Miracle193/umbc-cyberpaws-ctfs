@@ -6,6 +6,7 @@
 
 ### Description: 
 An insider from a suspected cybercriminal group has tipped us off. Every month, they use a specific code word or phrase to authenticate members in their underground forum. 
+
 This month, the code word is hidden within a book review posted in an online book club. Look through these reviews and decode the message to find the key.
 What is the special phrase hidden by the cybercriminals?
 
