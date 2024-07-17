@@ -7,7 +7,7 @@ This repository serves as a tracker for the CTFs where I breakdown the steps I t
 | CTF Name | Category | Status | 
 |---       |---       |---     |
 | Week 1: Code Words | Crypto | [Completed](Fall-2023/Week%201/) |
-| Week 2: Family Photo | Steganography | Not started |
+| Week 2: Family Photo | Steganography | [Completed](Fall-2023/Week%202/) |
 | Week 3: Ziplocked, You Rock! | Crypto |  Not started |
 | Week 4: Exfiltration Expedition | Incident Response |  Not started |
 | Week 5: Strange File | Reverse Engineering |  Not started |
