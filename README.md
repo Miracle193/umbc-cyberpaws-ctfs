@@ -10,7 +10,7 @@ This repository serves as a tracker for the CTFs where I breakdown the steps I t
 | Week 2: Family Photo | Steganography | [Completed](Fall-2023/Week2/) |
 | Week 3: Ziplocked, You Rock! | Crypto |  [Completed](Fall-2023/Week3/) |
 | Week 4: Exfiltration Expedition | Incident Response |  [Completed](Fall-2023/Week4/) |
-| Week 5: Strange File | Reverse Engineering |  Not started |
+| Week 5: Strange File | Reverse Engineering |  [Completed](Fall-2023/Week5/) |
 | Week 6: Secret Vault | Web |  Not started |
 | Week 7: Network Sleuth | Forensics |  Not started |
 | Week 8: Fine Arts & Crafts | Steganography |  Not started |
