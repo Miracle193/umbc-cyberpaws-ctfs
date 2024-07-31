@@ -12,7 +12,7 @@ This repository serves as a tracker for the CTFs where I breakdown the steps I t
 | Week 4: Exfiltration Expedition | Incident Response |  [Completed](Fall-2023/Week4/) |
 | Week 5: Strange File | Reverse Engineering |  [Completed](Fall-2023/Week5/) |
 | Week 6: Secret Vault | Web |  [Completed](Fall-2023/Week6/) |
-| Week 7: Network Sleuth | Forensics |  Not started |
+| Week 7: Network Sleuth | Forensics |  [Completed](Fall-2023/Week7/) |
 | Week 8: Fine Arts & Crafts | Steganography |  Not started |
 | Week 9: Cryptic Noodle Soup | Crypto |  Not started |
 | Week 10: Where Am I? | OSINT |  Not started |
