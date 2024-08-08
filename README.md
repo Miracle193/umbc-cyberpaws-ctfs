@@ -16,6 +16,6 @@ This repository serves as a tracker for the CTFs where I breakdown the steps I t
 | Week 8: Fine Arts & Crafts | Steganography |  [Completed](Fall-2023/Week8/) |
 | Week 9: Cryptic Noodle Soup | Crypto |  [Completed](Fall-2023/Week9/) |
 | Week 10: Where Am I? | OSINT |  [Completed](Fall-2023/Week10/) |
-| Week 11: Grep Analysis | Forensics |  Not started |
+| Week 11: Grep Analysis | Forensics |  [Completed](Fall-2023/Week11/) |
 | Week 12: More Scodes! | Audio/Video |  Not started |
 | Week 13: Baby's First BinBomb! | Binary Exploitation |  Not started |
