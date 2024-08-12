@@ -18,4 +18,4 @@ This repository serves as a tracker for the CTFs where I breakdown the steps I t
 | Week 10: Where Am I? | OSINT |  [Completed](Fall-2023/Week10/) |
 | Week 11: Grep Analysis | Forensics |  [Completed](Fall-2023/Week11/) |
 | Week 12: More Scodes! | Audio/Video |  [Completed](Fall-2023/Week12/) |
-| Week 13: Baby's First BinBomb! | Binary Exploitation |  Not started |
+| Week 13: Baby's First BinBomb! | Binary Exploitation |  [Completed](Fall-2023/Week13/) |
