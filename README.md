@@ -19,3 +19,19 @@ This repository serves as a tracker for the CTFs where I breakdown the steps I t
 | Week 11: Grep Analysis | Forensics |  [Completed](Fall-2023/Week11/) |
 | Week 12: More Scodes! | Audio/Video |  [Completed](Fall-2023/Week12/) |
 | Week 13: Baby's First BinBomb! | Binary Exploitation |  [Completed](Fall-2023/Week13/) |
+
+## Spring 2024
+| CTF Name | Category | Status | 
+|---       |---       |---     |
+| Week 1: Files in Files | Steganography | Not started |
+| Week 2: Choo Choo! | Crypto | Not started  |
+| Week 3: Mysterious File | Reverse Engineering |  Not started |
+| Week 4: Hash and Dash | Web |  Not started |
+| Week 5: [File Carving] | Forensics |  Not started |
+| Week 6: Decryption Description | Crypto |  Not started |
+| Week 7: Priority Voicemail | Audio/Video |  Not started |
+| Week 8: Lost in the Sauce | OSINT |  Not started |
+| Week 9: Unbreakable Encryption | Crypto |  Not started |
+| Week 10: Baby's First Reversing | Reverse Engineering |  Not started |
+| Week 11: Homefield Advantage | Web |  Not started |
+| Week 12: Final Paper | Forensics |  Not started |
