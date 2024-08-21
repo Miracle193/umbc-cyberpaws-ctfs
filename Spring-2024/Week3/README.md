@@ -27,6 +27,8 @@ The above command is using the objdump tool to display all headers in the VERYBA
 The outuput was:
  ![image2 (2)](../static/images/w3-cli.png)
 
+ Alternatively, you can use ghidra to get the same output.
+
 The Flag is `Paws{D0Y0US33M3N0W}`
 
 NOTE: Objdump is a command-line tool used primarily for analyzing and displaying information about binary files, such as object files, executables, shared libraries, and even core dumps. It's widely used in software development, reverse engineering, and security analysis.
