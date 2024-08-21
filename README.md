@@ -25,7 +25,7 @@ This repository serves as a tracker for the CTFs where I breakdown the steps I t
 |---       |---       |---     |
 | Week 1: Files in Files | Steganography | [Completed](Spring-2024/Week1/) |
 | Week 2: Choo Choo! | Crypto | [Completed](Spring-2024/Week2/)  |
-| Week 3: Mysterious File | Reverse Engineering |  Not started |
+| Week 3: Mysterious File | Reverse Engineering |  [Completed](Spring-2024/Week3/) |
 | Week 4: Hash and Dash | Web |  Not started |
 | Week 5: [File Carving] | Forensics |  Not started |
 | Week 6: Decryption Description | Crypto |  Not started |
