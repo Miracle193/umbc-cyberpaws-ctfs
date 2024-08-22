@@ -27,7 +27,7 @@ This repository serves as a tracker for the CTFs where I breakdown the steps I t
 | Week 2: Choo Choo! | Crypto | [Completed](Spring-2024/Week2/)  |
 | Week 3: Mysterious File | Reverse Engineering |  [Completed](Spring-2024/Week3/) |
 | Week 4: Hash and Dash | Web |  Not started |
-| Week 5: [File Carving] | Forensics |  Not started |
+| Week 5: [File Carving] | Forensics |  [Completed](Spring-2024/Week5/) |
 | Week 6: Decryption Description | Crypto |  Not started |
 | Week 7: Priority Voicemail | Audio/Video |  Not started |
 | Week 8: Lost in the Sauce | OSINT |  Not started |
