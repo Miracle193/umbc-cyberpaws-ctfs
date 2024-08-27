@@ -29,7 +29,7 @@ This repository serves as a tracker for the CTFs where I breakdown the steps I t
 | Week 4: Hash and Dash | Web |  Not started |
 | Week 5: [File Carving] | Forensics |  [Completed](Spring-2024/Week5/) |
 | Week 6: Decryption Description | Crypto |  [Completed](Spring-2024/Week6/) |
-| Week 7: Priority Voicemail | Audio/Video |  Not started |
+| Week 7: Priority Voicemail | Audio/Video |  [Completed](Spring-2024/Week7/) |
 | Week 8: Lost in the Sauce | OSINT |  Not started |
 | Week 9: Unbreakable Encryption | Crypto |  Not started |
 | Week 10: Baby's First Reversing | Reverse Engineering |  Not started |
