@@ -31,7 +31,7 @@ This repository serves as a tracker for the CTFs where I breakdown the steps I t
 | Week 6: Decryption Description | Crypto |  [Completed](Spring-2024/Week6/) |
 | Week 7: Priority Voicemail | Audio/Video |  [Completed](Spring-2024/Week7/) |
 | Week 8: Lost in the Sauce | OSINT | [Completed](Spring-2024/Week8/) |
-| Week 9: Unbreakable Encryption | Crypto |  Not started |
+| Week 9: Unbreakable Encryption | Crypto |  [Completed](Spring-2024/Week9/) |
 | Week 10: Baby's First Reversing | Reverse Engineering |  Not started |
 | Week 11: Homefield Advantage | Web |  Not started |
 | Week 12: Final Paper | Forensics |  Not started |
