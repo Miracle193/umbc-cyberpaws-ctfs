@@ -34,4 +34,4 @@ This repository serves as a tracker for the CTFs where I breakdown the steps I t
 | Week 9: Unbreakable Encryption | Crypto |  [Completed](Spring-2024/Week9/) |
 | Week 10: Baby's First Reversing | Reverse Engineering |  [Completed](Spring-2024/Week10/) |
 | Week 11: Homefield Advantage | Web |  Not started |
-| Week 12: Final Paper | Forensics |  Not started |
+| Week 12: Final Paper | Forensics |  [Completed](Spring-2024/Week12/) |
