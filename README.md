@@ -35,3 +35,9 @@ This repository serves as a tracker for the CTFs where I breakdown the steps I t
 | Week 10: Baby's First Reversing | Reverse Engineering |  [Completed](Spring-2024/Week10/) |
 | Week 11: Homefield Advantage | Web |  Not started |
 | Week 12: Final Paper | Forensics |  [Completed](Spring-2024/Week12/) |
+
+## Fall 2024
+| CTF Name | Category | Status | 
+|---       |---       |---     |
+| Week 1: Take a Look Around | Crypto/OSINT | Not started |
+| Week 2: Web Crawling | Web/OSINT | [Completed](Fall-2024/Week2/)  |
