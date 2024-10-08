@@ -42,3 +42,4 @@ This repository serves as a tracker for the CTFs where I breakdown the steps I t
 | Week 1: Take a Look Around | Crypto/OSINT | Not started |
 | Week 2: Web Crawling | Web/OSINT | [Completed](Fall-2024/Week2/)  |
 | Week 3:  Who Am I | OSINT | [Completed](Fall-2024/Week3/)  |
+| Week 4:  Inside Job | REV | [Completed](Fall-2024/Week4/)  |
