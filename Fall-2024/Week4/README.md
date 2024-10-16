@@ -1,8 +1,8 @@
 # Fall 2024 - Week 4: Inside Job
 
-## Category: REV
+### Category: REV
 
-## File: CyberPaws_Chal_Week4
+### File: CyberPaws_Chal_Week4
 
 ### Description:
 It seems one of our developers has gone rogue, stealing this week's flag and hiding it inside a program. To make matters worse, the program demands a password to reveal the flag. Your mission is to uncover the password hidden within their compiled program, or find a way to bypass the check entirely. Time is running out, and we need that flag back!

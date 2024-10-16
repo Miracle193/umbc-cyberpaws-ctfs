@@ -1,6 +1,6 @@
 # Fall 2024 - Week 2: Web Crawling
 
-## Category: Web/OSINT
+### Category: Web/OSINT
 
 ### Description:
 You can find a lot of things on a website by viewing the page source (Ctrl+U on most browsers) and Inspect Element, including things you aren't normally supposed to see...did you know we have a website of our own? 
