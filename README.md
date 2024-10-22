@@ -44,3 +44,4 @@ This repository serves as a tracker for the CTFs where I breakdown the steps I t
 | Week 3:  Who Am I | OSINT | [Completed](Fall-2024/Week3/)  |
 | Week 4:  Inside Job | REV | [Completed](Fall-2024/Week4/)  |
 | Week 5:  A Beautiful Park | Forensics | [Completed](Fall-2024/Week5/)  |
+| Week 6:  Blood in the Water | Forensics | [Completed](Fall-2024/Week6/)  |
