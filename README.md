@@ -47,3 +47,4 @@ This repository serves as a tracker for the CTFs where I breakdown the steps I t
 | Week 6:  Blood in the Water | Forensics | [Completed](Fall-2024/Week6/)  |
 | Week 7:  Hash and Dash | Crypto | [Completed](Fall-2024/Week7/)  |
 | Week 8:  Key Please | REV | [Completed](Fall-2024/Week8/)  |
+| Week 9:  Cookie Monster | Web | [Completed](Fall-2024/Week9/)  |
