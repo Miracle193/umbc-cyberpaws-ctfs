@@ -48,3 +48,4 @@ This repository serves as a tracker for the CTFs where I breakdown the steps I t
 | Week 7:  Hash and Dash | Crypto | [Completed](Fall-2024/Week7/)  |
 | Week 8:  Key Please | REV | [Completed](Fall-2024/Week8/)  |
 | Week 9:  Cookie Monster | Web | [Completed](Fall-2024/Week9/)  |
+| Week 10:  Turing Test | Crypto | [Completed](Fall-2024/Week10/)  |
