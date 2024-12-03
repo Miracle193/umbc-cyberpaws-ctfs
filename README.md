@@ -50,3 +50,4 @@ This repository serves as a tracker for the CTFs where I breakdown the steps I t
 | Week 9:  Cookie Monster | Web | [Completed](Fall-2024/Week9/)  |
 | Week 10:  Turing Test | Crypto | [Completed](Fall-2024/Week10/)  |
 | Week 11:  Object of My Ire | Forensics | [Completed](Fall-2024/Week11/)  |
+| Week 12:  Is This a Threat? | Forensics/OSINT | [Completed](Fall-2024/Week12/)  |
