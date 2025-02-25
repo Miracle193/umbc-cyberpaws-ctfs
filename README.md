@@ -57,3 +57,4 @@ This repository serves as a tracker for the CTFs where I breakdown the steps I t
 | CTF Name | Category | Status | 
 |---       |---       |---     |
 | Week 1: Meet the Bot Again | Crypto/OSINT | [Completed](Spring-2025/Week1/) |
+| Week 2: A Little Hide & Seek | Steganography | [Completed](Spring-2025/Week2/) |
