@@ -9,4 +9,4 @@ I asked my friend for their notes on process memory but they locked it behind th
 The process is running at nc 3.145.101.102:53780
 
 ### Solution
-
+The first thing we would do is run the command, `nc 3.145.101.102:53780` to get an idea of what the process it doing.
