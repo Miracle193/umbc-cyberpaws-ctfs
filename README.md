@@ -59,3 +59,4 @@ This repository serves as a tracker for the CTFs where I breakdown the steps I t
 | Week 1: Meet the Bot Again | Crypto/OSINT | [Completed](Spring-2025/Week1/) |
 | Week 2: A Little Hide & Seek | Steganography | [Completed](Spring-2025/Week2/) |
 | Week 3: Panic! At the Kernel | Forensics | [Completed](Spring-2025/Week3/) |
+
